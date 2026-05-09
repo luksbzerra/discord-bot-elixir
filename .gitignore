@@ -1,0 +1,5 @@
+/build/
+/deps/
+/.elixir_ls/
+reminders.json
+.env
